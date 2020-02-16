@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Repetição-Laços/exemplo-doWhile.php" line="9" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="11520f73-be7f-4aff-83f1-4efffec7efe4" name="Default Changelist" comment="Deletando usuário por ID">
+      <change beforePath="$PROJECT_DIR$/BancoDeDados/DAO/class/Usuario.php" beforeDir="false" afterPath="$PROJECT_DIR$/BancoDeDados/DAO/class/Usuario.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BancoDeDados/DAO/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/BancoDeDados/DAO/index.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BancoDeDados/DAO/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BancoDeDados/DAO/class/Usuario.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="720">
+              <caret line="138" column="29" selection-start-line="138" selection-start-column="29" selection-end-line="138" selection-end-column="29" />
+              <folding>
+                <element signature="n#getIdusuario#0;n#Usuario#0;n#!!top" />
+                <element signature="n#setIdusuario#0;n#Usuario#0;n#!!top" />
+                <element signature="n#getDeslogin#0;n#Usuario#0;n#!!top" />
+                <element signature="n#setDeslogin#0;n#Usuario#0;n#!!top" />
+                <element signature="n#getDessenha#0;n#Usuario#0;n#!!top" />
+                <element signature="n#setDessenha#0;n#Usuario#0;n#!!top" />
+                <element signature="n#getDtcadastro#0;n#Usuario#0;n#!!top" />
+                <element signature="n#setDtcadastro#0;n#Usuario#0;n#!!top" />
+                <element signature="n#setDtcadastro#0;n#Usuario#0;n#!!top" />
+                <element signature="n#__construct#0;n#Usuario#0;n#!!top" />
+                <element signature="n#loadById#0;n#Usuario#0;n#!!top" />
+                <element signature="n#getList#0;n#Usuario#0;n#!!top" />
+                <element signature="n#getList#0;n#Usuario#0;n#!!top" />
+                <element signature="n#search#0;n#Usuario#0;n#!!top" />
+                <element signature="n#login#0;n#Usuario#0;n#!!top" />
+                <element signature="n#setData#0;n#Usuario#0;n#!!top" />
+                <element signature="n#insert#0;n#Usuario#0;n#!!top" />
+                <element signature="n#update#0;n#Usuario#0;n#!!top" />
+                <element signature="n#__toString#0;n#Usuario#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/BancoDeDados/DAO" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Repetição-Laços/exemplo-while.php" />
+        <option value="$PROJECT_DIR$/Repetição-Laços/exemplo-doWhile.php" />
+        <option value="$PROJECT_DIR$/Array/exemplo-array.php" />
+        <option value="$PROJECT_DIR$/Array/exemplo-ArrayBidimencional.php" />
+        <option value="$PROJECT_DIR$/Array/exemplo-arrayDeArray.php" />
+        <option value="$PROJECT_DIR$/Json/exemplo-Json.php" />
+        <option value="$PROJECT_DIR$/Json/exemplo-JsonDecode.php" />
+        <option value="$PROJECT_DIR$/Constantes/exemplo-Constantes.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c37ae7fb-62e2-434b-b444-b2e90a0c83be/console.sql" />
+        <option value="$PROJECT_DIR$/Sessões/exemplo-session-02.php" />
+        <option value="$PROJECT_DIR$/exemplo-sessao.php" />
+        <option value="$PROJECT_DIR$/Funções/exemplo-funcoes01.php" />
+        <option value="$PROJECT_DIR$/Funções/exemplo-funcaoParametros.php" />
+        <option value="$PROJECT_DIR$/Funções/exemploFuncaoGetArgs.php" />
+        <option value="$PROJECT_DIR$/Funções/exemplo-funcaoPorValor.php" />
+        <option value="$PROJECT_DIR$/Funções/exemplo-funcaoPorReferencia.php" />
+        <option value="$PROJECT_DIR$/Funções/exemplo-funcaoComTipoNaDeclaracao.php" />
+        <option value="$PROJECT_DIR$/Funções/exemplo-funcaoComTipoNoRetorno.php" />
+        <option value="$PROJECT_DIR$/Data e Hora/exemploDataHora.php" />
+        <option value="$PROJECT_DIR$/Data e Hora/exemploSetLocale.php" />
+        <option value="$PROJECT_DIR$/Data e Hora/exempl-dataHoraClasse.php" />
+        <option value="$PROJECT_DIR$/POO/Classes/exemploStatic.php" />
+        <option value="$PROJECT_DIR$/POO/Classes/exemploMetodosMagicos.php" />
+        <option value="$PROJECT_DIR$/POO/Classes/exemploMetodoConstrutor.php" />
+        <option value="$PROJECT_DIR$/POO/Encapsulamento/exemploEncapsulamento.php" />
+        <option value="$PROJECT_DIR$/Interface/exemploInterface.php" />
+        <option value="$PROJECT_DIR$/Abstract/exemploAbstract.php" />
+        <option value="$PROJECT_DIR$/POO/AutoLoad/DelRey.php" />
+        <option value="$PROJECT_DIR$/POO/AutoLoad/Automovel.php" />
+        <option value="$PROJECT_DIR$/POO/AutoLoad/exemploAutoLoad.php" />
+        <option value="$PROJECT_DIR$/POO/AutoLoad/exemploAutoLoadPastaDiferente.php" />
+        <option value="$PROJECT_DIR$/NameSpace/class/Cadastro.php" />
+        <option value="$PROJECT_DIR$/NameSpace/index.php" />
+        <option value="$PROJECT_DIR$/NameSpace/class/Cliente/Cadastro.php" />
+        <option value="$PROJECT_DIR$/NameSpace/config.php" />
+        <option value="$PROJECT_DIR$/POO/Encapsulamento/exemploHeranca.php" />
+        <option value="$PROJECT_DIR$/BancoDeDados/exemploInsert.php" />
+        <option value="$PROJECT_DIR$/BancoDeDados/exemploConsulta.php" />
+        <option value="$PROJECT_DIR$/BancoDeDados/PDO/exemploPDO.php" />
+        <option value="$PROJECT_DIR$/BancoDeDados/PDO/exemploUpdate.php" />
+        <option value="$PROJECT_DIR$/BancoDeDados/PDO/exemploPDOUpdate.php" />
+        <option value="$PROJECT_DIR$/BancoDeDados/PDO/exemploPDODelete.php" />
+        <option value="$PROJECT_DIR$/BancoDeDados/PDO/exemploPDODeleteTransacao.php" />
+        <option value="$PROJECT_DIR$/BancoDeDados/DAO/exemploDAOConexao.php" />
+        <option value="$PROJECT_DIR$/BancoDeDados/PDO/exemploPDOInsert.php" />
+        <option value="$PROJECT_DIR$/BancoDeDados/DAO/Sql.php" />
+        <option value="$PROJECT_DIR$/BancoDeDados/DAO/Usuario.php" />
+        <option value="$PROJECT_DIR$/BancoDeDados/DAO/config.php" />
+        <option value="$PROJECT_DIR$/BancoDeDados/DAO/class/Sql.php" />
+        <option value="$PROJECT_DIR$/BancoDeDados/DAO/class/Usuario.php" />
+        <option value="$PROJECT_DIR$/BancoDeDados/DAO/index.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-138" />
+    <option name="y" value="-8" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Treinamento PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Treinamento PHP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Treinamento PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Treinamento PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="BancoDeDados" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cursoPHP-DAO" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Treinamento PHP\BancoDeDados\DAO\class" />
+      <recent name="C:\xampp\htdocs\Treinamento PHP" />
+      <recent name="C:\xampp\htdocs\Treinamento PHP\POO\AutoLoad\Abstratas" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\Treinamento PHP\BancoDeDados\DAO" />
+      <recent name="C:\xampp\htdocs\Treinamento PHP\BancoDeDados\PDO" />
+      <recent name="C:\xampp\htdocs\Treinamento PHP\BancoDeDados" />
+      <recent name="C:\xampp\htdocs\Treinamento PHP\POO\Encapsulamento" />
+      <recent name="C:\xampp\htdocs\Treinamento PHP\Funções" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11520f73-be7f-4aff-83f1-4efffec7efe4" name="Default Changelist" comment="" />
+      <created>1581373687837</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581373687837</updated>
+      <workItem from="1581373688980" duration="2514000" />
+      <workItem from="1581376240666" duration="230000" />
+      <workItem from="1581376486670" duration="7865000" />
+      <workItem from="1581462864296" duration="3804000" />
+      <workItem from="1581472625751" duration="3074000" />
+      <workItem from="1581550571316" duration="10343000" />
+      <workItem from="1581629028710" duration="13556000" />
+      <workItem from="1581788267814" duration="15507000" />
+      <workItem from="1581835375762" duration="6967000" />
+      <workItem from="1581873441927" duration="294000" />
+      <workItem from="1581873741691" duration="14000" />
+      <workItem from="1581874769098" duration="119000" />
+      <workItem from="1581874926175" duration="9297000" />
+    </task>
+    <task id="LOCAL-00001" summary="Classes da aula 62">
+      <created>1581827761577</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581827761577</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Classes da aula 62">
+      <created>1581827837940</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581827837940</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Classes da aula 62">
+      <created>1581835644494</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1581835644494</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Classes da aula 62">
+      <created>1581875001106</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1581875001106</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Atualizando Usuário por Login e Senha">
+      <created>1581884051424</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1581884051424</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="73584000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20384204" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32899022" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" weight="0.21801706" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Classes da aula 62" />
+    <MESSAGE value="Atualizando Usuário por Login e Senha" />
+    <MESSAGE value="Deletando usuário por ID" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deletando usuário por ID" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Array/exemplo-ArrayBidimencional.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Array/exemplo-arrayDeArray.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Json/exemplo-JsonEncode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Constantes/exemplo-Constantes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="87" selection-start-line="9" selection-start-column="87" selection-end-line="9" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Json/exemplo-JsonDecode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="104" selection-start-line="4" selection-start-column="104" selection-end-line="4" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c37ae7fb-62e2-434b-b444-b2e90a0c83be/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sessões/exemplo-session-02.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funções/exemplo-funcoes01.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funções/exemplo-funcaoParametros.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funções/exemploFuncaoGetArgs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="64" lean-forward="true" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funções/exemplo-funcaoPorReferencia.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funções/exemplo-funcaoPorValor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funções/exemplo-funcaoComTipoNoRetorno.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="107" selection-start-line="2" selection-start-column="107" selection-end-line="2" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exemplo-sessao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Funções/exemplo-funcaoComTipoNaDeclaracao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="27" lean-forward="true" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data e Hora/exemploDataHora.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="26" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data e Hora/exemploSetLocale.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data e Hora/exempl-dataHoraClasse.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POO/Classes/exemploStatic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="765">
+          <caret line="72" column="28" selection-start-line="72" selection-start-column="28" selection-end-line="72" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POO/Classes/exemploMetodoConstrutor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POO/Classes/exemploMetodosMagicos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POO/Encapsulamento/exemploEncapsulamento.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="19" lean-forward="true" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Interface/exemploInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POO/AutoLoad/DelRey.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POO/AutoLoad/Abstratas/Automovel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Abstract/exemploAbstract.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POO/AutoLoad/exemploAutoLoad.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POO/AutoLoad/Abstratas.php" />
+    <entry file="file://$PROJECT_DIR$/POO/AutoLoad/exemploAutoLoadPastaDiferente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NameSpace/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NameSpace/class/Cadastro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NameSpace/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NameSpace/class/Cliente/Cadastro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/POO/Encapsulamento/exemploHeranca.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BancoDeDados/exemploConsulta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BancoDeDados/exemploInsert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BancoDeDados/PDO/xexemploPDOUpdate.php" />
+    <entry file="file://$PROJECT_DIR$/BancoDeDados/PDO/exemploPDOUpdate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BancoDeDados/PDO/exemploPDOConsulta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BancoDeDados/PDO/exemploPDODelete.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="50" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BancoDeDados/PDO/exemploPDODeleteTransacao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="67" selection-start-line="15" selection-start-column="67" selection-end-line="15" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BancoDeDados/DAO/exemploDAOSelect.php" />
+    <entry file="file://$PROJECT_DIR$/BancoDeDados/DAO/exemploDAOList.php" />
+    <entry file="file://$PROJECT_DIR$/BancoDeDados/DAO/exemploDAOInsert.php" />
+    <entry file="file://$PROJECT_DIR$/BancoDeDados/DAO/exemploDAOUpdate.php" />
+    <entry file="file://$PROJECT_DIR$/BancoDeDados/PDO/exemploPDOInsert.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BancoDeDados/DAO/exemploDAODelete.php" />
+    <entry file="file://$PROJECT_DIR$/BancoDeDados/DAO/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BancoDeDados/DAO/class/Sql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="36" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BancoDeDados/DAO/class/Usuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="138" column="29" selection-start-line="138" selection-start-column="29" selection-end-line="138" selection-end-column="29" />
+          <folding>
+            <element signature="n#getIdusuario#0;n#Usuario#0;n#!!top" />
+            <element signature="n#setIdusuario#0;n#Usuario#0;n#!!top" />
+            <element signature="n#getDeslogin#0;n#Usuario#0;n#!!top" />
+            <element signature="n#setDeslogin#0;n#Usuario#0;n#!!top" />
+            <element signature="n#getDessenha#0;n#Usuario#0;n#!!top" />
+            <element signature="n#setDessenha#0;n#Usuario#0;n#!!top" />
+            <element signature="n#getDtcadastro#0;n#Usuario#0;n#!!top" />
+            <element signature="n#setDtcadastro#0;n#Usuario#0;n#!!top" />
+            <element signature="n#setDtcadastro#0;n#Usuario#0;n#!!top" />
+            <element signature="n#__construct#0;n#Usuario#0;n#!!top" />
+            <element signature="n#loadById#0;n#Usuario#0;n#!!top" />
+            <element signature="n#getList#0;n#Usuario#0;n#!!top" />
+            <element signature="n#getList#0;n#Usuario#0;n#!!top" />
+            <element signature="n#search#0;n#Usuario#0;n#!!top" />
+            <element signature="n#login#0;n#Usuario#0;n#!!top" />
+            <element signature="n#setData#0;n#Usuario#0;n#!!top" />
+            <element signature="n#insert#0;n#Usuario#0;n#!!top" />
+            <element signature="n#update#0;n#Usuario#0;n#!!top" />
+            <element signature="n#__toString#0;n#Usuario#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BancoDeDados/DAO/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="31" lean-forward="true" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
