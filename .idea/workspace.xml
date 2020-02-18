@@ -4,13 +4,15 @@
     <bookmark url="file://$PROJECT_DIR$/Repetição-Laços/exemplo-doWhile.php" line="9" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="11520f73-be7f-4aff-83f1-4efffec7efe4" name="Default Changelist" comment="Deletando usuário por ID">
-      <change afterPath="$PROJECT_DIR$/Diretorios_e_Arquivos/exemploFgets/exemploFgets.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diretorios_e_Arquivos/exemploFgets/exemploFileGetContents.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Diretorios_e_Arquivos/exemploFgets/usuarios.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="11520f73-be7f-4aff-83f1-4efffec7efe4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Diretorios_e_Arquivos/Uploads/exemploDeUpload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Treinamento PHP.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TreinamentoPHP.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Diretorios_e_Arquivos/Fopen/images/logo-a.png" beforeDir="false" afterPath="$PROJECT_DIR$/Diretorios_e_Arquivos/exemploFgets/logo-a.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BancoDeDados/DAO" beforeDir="false" afterPath="$PROJECT_DIR$/BancoDeDados/DAO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BancoDeDados/DAO/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/BancoDeDados/DAO/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Diretorios_e_Arquivos/direetoriosArquivos.php" beforeDir="false" afterPath="$PROJECT_DIR$/Diretorios_e_Arquivos/direetoriosArquivos.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Diretorios_e_Arquivos/exemploFgets/exemploFileGetContents.php" beforeDir="false" afterPath="$PROJECT_DIR$/Diretorios_e_Arquivos/exemploFgets/exemploFileGetContents.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -40,10 +42,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Diretorios_e_Arquivos/exemploFgets/exemploFileGetContents.php">
+        <entry file="file://$PROJECT_DIR$/Diretorios_e_Arquivos/Uploads/exemploDeUpload.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+            <state relative-caret-position="187">
+              <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -56,7 +58,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Constantes/exemplo-Constantes.php" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c37ae7fb-62e2-434b-b444-b2e90a0c83be/console.sql" />
         <option value="$PROJECT_DIR$/Sessões/exemplo-session-02.php" />
         <option value="$PROJECT_DIR$/exemplo-sessao.php" />
@@ -99,14 +100,15 @@
         <option value="$PROJECT_DIR$/BancoDeDados/DAO/config.php" />
         <option value="$PROJECT_DIR$/BancoDeDados/DAO/class/Sql.php" />
         <option value="$PROJECT_DIR$/BancoDeDados/DAO/class/Usuario.php" />
-        <option value="$PROJECT_DIR$/BancoDeDados/DAO/index.php" />
-        <option value="$PROJECT_DIR$/Diretorios_e_Arquivos/direetoriosArquivos.php" />
         <option value="$PROJECT_DIR$/Diretorios_e_Arquivos/Fopen/exemploDeFopen.php" />
         <option value="$PROJECT_DIR$/Diretorios_e_Arquivos/Fopen/exemploCSV.php" />
         <option value="$PROJECT_DIR$/Diretorios_e_Arquivos/Fopen/exemploExcluirArquivos.php" />
         <option value="$PROJECT_DIR$/Diretorios_e_Arquivos/Fopen/exemploExcluirArquivosEmLote.php" />
         <option value="$PROJECT_DIR$/Diretorios_e_Arquivos/exemploFgets/exemploFgets.php" />
         <option value="$PROJECT_DIR$/Diretorios_e_Arquivos/exemploFgets/exemploFileGetContents.php" />
+        <option value="$PROJECT_DIR$/Diretorios_e_Arquivos/direetoriosArquivos.php" />
+        <option value="$PROJECT_DIR$/BancoDeDados/DAO/index.php" />
+        <option value="$PROJECT_DIR$/Diretorios_e_Arquivos/Uploads/exemploDeUpload.php" />
       </list>
     </option>
   </component>
@@ -134,39 +136,44 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Treinamento PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TreinamentoPHP" type="b2602c69:ProjectViewProjectNode" />
               <item name="Treinamento PHP" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Treinamento PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TreinamentoPHP" type="b2602c69:ProjectViewProjectNode" />
               <item name="Treinamento PHP" type="462c0819:PsiDirectoryNode" />
               <item name="Diretorios_e_Arquivos" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Treinamento PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TreinamentoPHP" type="b2602c69:ProjectViewProjectNode" />
               <item name="Treinamento PHP" type="462c0819:PsiDirectoryNode" />
               <item name="Diretorios_e_Arquivos" type="462c0819:PsiDirectoryNode" />
-              <item name="exemploFgets" type="462c0819:PsiDirectoryNode" />
+              <item name="Uploads" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TreinamentoPHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Diretorios_e_Arquivos/exemploFgets" />
+    <property name="last_opened_file_path" value="C:/Program Files/NetMake/v9-php73/components/php/php.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.splitter.proportion" value="0.34980237" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -218,7 +225,10 @@
       <workItem from="1581873741691" duration="14000" />
       <workItem from="1581874769098" duration="119000" />
       <workItem from="1581874926175" duration="16101000" />
-      <workItem from="1581894522215" duration="2012000" />
+      <workItem from="1581894522215" duration="2880000" />
+      <workItem from="1581901281997" duration="40000" />
+      <workItem from="1581901540888" duration="663000" />
+      <workItem from="1581975880836" duration="3938000" />
     </task>
     <task id="LOCAL-00001" summary="Classes da aula 62">
       <created>1581827761577</created>
@@ -255,33 +265,49 @@
       <option name="project" value="LOCAL" />
       <updated>1581884051424</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Exemplos com Fgets">
+      <created>1581900045649</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1581900045649</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82400000" />
+    <option name="totallyTimeSpent" value="87909000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20597652" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21237993" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="0" weight="0.32899022" />
       <window_info anchor="bottom" id="Message" order="1" />
-      <window_info anchor="bottom" id="Find" order="2" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Find" order="2" sideWeight="0.49893278" visible="true" weight="0.32850778" />
       <window_info anchor="bottom" id="Run" order="3" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="TODO" order="7" sideWeight="0.4994664" weight="0.32962137" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49893278" weight="0.32962137" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="PHP-CGI Server" order="11" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="11" sideWeight="0.49893278" weight="0.32962137" />
       <window_info anchor="bottom" id="Terminal" order="12" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.5010672" side_tool="true" weight="0.32850778" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -291,20 +317,54 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Classes da aula 62" />
     <MESSAGE value="Atualizando Usuário por Login e Senha" />
     <MESSAGE value="Deletando usuário por ID" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deletando usuário por ID" />
+    <MESSAGE value="Exemplos com Fgets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exemplos com Fgets" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Funções/exemploFuncaoGetArgs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="64" lean-forward="true" selection-start-line="6" selection-start-column="64" selection-end-line="6" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Funções/exemplo-funcaoPorReferencia.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -536,13 +596,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BancoDeDados/DAO/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="48" lean-forward="true" selection-start-line="28" selection-start-column="48" selection-end-line="28" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BancoDeDados/DAO/class/Usuario.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
@@ -568,13 +621,6 @@
             <element signature="n#update#0;n#Usuario#0;n#!!top" />
             <element signature="n#__toString#0;n#Usuario#0;n#!!top" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Diretorios_e_Arquivos/direetoriosArquivos.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="48" lean-forward="true" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -619,12 +665,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Diretorios_e_Arquivos/exemploFgets/exemploFileGetContents.php">
+    <entry file="file://$PROJECT_DIR$/Diretorios_e_Arquivos/direetoriosArquivos.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        <state relative-caret-position="476">
+          <caret line="34" column="28" lean-forward="true" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BancoDeDados/DAO/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diretorios_e_Arquivos/exemploFgets/exemploFileGetContents.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diretorios_e_Arquivos/Uploads/exemploDeUpload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

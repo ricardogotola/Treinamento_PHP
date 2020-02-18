@@ -26,7 +26,7 @@ $nomeDiretorio = "images";
             $info = pathinfo($filename);
             $info["size"] = filesize($filename);
             $info["modified"] = date("d/m/Y H:i:s", filemtime($filename));
-            $info["url"] = "http://localhost/Treinamento PHP/Diretorios_e_Arquivos/".str_replace("\\", "/", $filename);
+            $info["url"] = "http://localhost/TreinamentoPHP/Diretorios_e_Arquivos/".str_replace("\\", "/", $filename);
 
             array_push($data, $info);
         }
